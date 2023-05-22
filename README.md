@@ -14,9 +14,14 @@ Reach out to me for internships, co-op, and/or if you wanted to chat about Compu
 ![image title](https://rushter.com/counter.svg)
 
 
+
 <!--
 
 ### Hi there 👋
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=nandishofficial&show_icons=true&theme=blueberry&hide_border=true&count_private=true" />
+</div>
 
 **nandishofficial/nandishofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
