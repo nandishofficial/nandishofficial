@@ -1,7 +1,7 @@
 # ⚡️ Nandish Patel (he/him) ⚡️
 👋🏻 Hello/Salut/Namastē/Hallo/Ahoj 👋🏻
 
-🙌 I am currently a Computer Science student in the Faculty of Mathematics at the University of Waterloo. I possess enthusiasm and zeal to explore and am always up to something be it a startup, clubs, volunteering, projects, or to help anyone 🙌
+🙌 I am Nandish (pronounced as n-uh-n-d-ee-sh), currently a Computer Science student in the Faculty of Mathematics at the University of Waterloo. I possess enthusiasm and zeal to explore and am always up to something be it a startup, clubs, volunteering, projects, or to help anyone 🙌
 
 👨🏻‍💻 Broadly speaking, I am interested in all the fields of Computer Science (including Artificial Intelligence (AI), Machine Learning (ML), and Data Science (DS)) and Entrepreneurship. Technically speaking, I am interested and passionate in product/program/project management, software development, full stack development, AI & ML Scientist, Technical Writing, Fin-Tech and Ed-Tech 👨🏻‍💻
 
