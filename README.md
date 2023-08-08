@@ -1,5 +1,5 @@
 # ⚡️ Nandish Patel (he/him) ⚡️
-👋🏻 Hello/Salut/Namastē/Hallo/Ahoj 👋🏻
+👋🏻 Hello/Salut/Namastē/Kem-Cho/Hallo/Ahoj 👋🏻
 
 🙌 I am Nandish (pronounced as n-uh-n-d-ee-sh), currently a Computer Science student in the Faculty of Mathematics at the University of Waterloo. I possess enthusiasm and zeal to explore and am always up to something be it a startup, clubs, volunteering, projects, or to help anyone 🙌
 
