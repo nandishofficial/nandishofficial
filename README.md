@@ -9,7 +9,7 @@
 
 🌏 Moreover, I have to left the best education on this planet earth, thus and feel proud to say that currently am building myself in this field of education from one of the world's best Computer Science University, The University of Waterloo. I am also the only International Elite Award Recipient from my country, India 🌏
 
-Reach out to me for internships, co-op, and/or if you wanted to chat about Computer Science, Philosophy, Entrepreneurship or anything (literally!), feel very free to contact me at nandish.patel@uwaterloo.ca
+Reach out to me for internships, co-op, and/or if you wanted to chat about Computer Science, Philosophy, Entrepreneurship, Travelling or anything (literally!), feel very free to contact me at nandish.patel@uwaterloo.ca
 
 ![image title](https://rushter.com/counter.svg)
 
